@@ -13,7 +13,7 @@ DEVELOPING.
 
 demo
 --------
-[demo](http://yie.jp/iq/)
+[demo](http://dev.yie.jp/iq/)
 
 enchant.js
 --------
