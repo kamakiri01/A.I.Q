@@ -5,8 +5,6 @@ var DEBUG_LABEL_H = 50;
 
 var bearImage    = './images/chara1.png';
 var bgImage      = './images/enchant_frame.png';
-var eBulletImage = './images/eBullet.png';
-var colorsImage  = './images/colors.png';
 var stoneImage   = './images/stone.png';
 var blueStoneImage = './images/blueStone.png';
 var greenStoneImage = './images/greenStone.png';
