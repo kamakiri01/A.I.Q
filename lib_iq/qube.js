@@ -4,14 +4,6 @@
         var Qube = enchant.Class.create(enchant.gl.primitive.Cube,{
             initialize: function(scale){
                 enchant.gl.primitive.Cube.call(this, scale);
-
-//                //テクスチャ
-//                //Qubeクラス単体では利用を前提としない
-//                var texture = new Texture();
-//                texture.src = stoneImage;
-//                texture.ambient=[0.8,0.8,0.8,0.8];
-//                texture.shiness=1;
-//                this.mesh.texture = texture;
                 
                 //回転開始時に移動開始座標を保持するメンバ
                 this.preX = this.x;
